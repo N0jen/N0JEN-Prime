@@ -1,4 +1,4 @@
-rootProject.name = "CloudStreamFilmRepo"
+rootProject.name = "N0JEN-Prime"
 
 val excludedDirectories = setOf(
     ".git", ".github", ".gradle", "build", "gradle",
