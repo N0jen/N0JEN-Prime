@@ -36,7 +36,7 @@ subprojects {
     apply(plugin = "com.lagradost.cloudstream3.gradle")
 
     cloudstream {
-        setRepo(System.getenv("GITHUB_REPOSITORY") ?: "berr49300/cloudstream-film-repo")
+        setRepo(System.getenv("GITHUB_REPOSITORY") ?: "N0jen/N0JEN-Prime")
     }
 
     android {
